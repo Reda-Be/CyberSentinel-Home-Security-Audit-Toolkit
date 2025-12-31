@@ -1,30 +1,40 @@
 # 🛡️ Home Security Audit Toolkit
 
-> **Note :** This tool was developed to automate cybersecurity audits for residential systems. It provides a professional "Cyber Health Check" by scanning critical system settings and generating an executive report.
+> **💡 Juste un projet fun :** C'est mon tout premier outil ! Il vient d'une idée de startup qui m'est passée par la tête : imaginez une "Cyber Squad" qui se déplace physiquement chez les gens pour sécuriser leur Wi-Fi, vérifier leurs appareils et installer des packs "Sécurité Gold" ou du contrôle parental. La startup n'existe pas (encore !), c'est juste une idée comme ça, mais cet outil est la preuve technique que c'est possible.
 
-## 📖 Project Overview
-The goal of this project was to create a portable solution for on-site security assessments. Instead of checking settings manually, this script runs a full audit in seconds, ensuring no vulnerability is overlooked.
-
-## ✨ Key Security Checks
-* **System Profiling:** Identification of OS, hardware, and network hostname.
-* **Firewall Hardening:** Validation of active Windows Firewall profiles.
-* **Antivirus Audit:** Real-time detection of active security software.
-* **Account Analysis:** Identification of enabled/disabled local users to prevent unauthorized access.
-* **Patch Management:** Scanning for the latest Windows security updates and pending hotfixes.
-* **Network Integrity:** Analysis of IP configurations and DNS settings.
-
-## 📊 Automated Reporting
-The tool's main feature is the generation of a **Stylized HTML Report**. 
-* **Executive Summary:** Pass/Fail status for critical security layers.
-* **Transparency:** Detailed logs for technical review.
-* **Hardening Tips:** Practical recommendations for the end-user.
+## 📖 Vision & Concept
+L'idée était de combler le fossé entre la sécurité informatique complexe et la vie quotidienne à la maison. Cet outil est conçu pour montrer comment un analyste pourrait effectuer un "Check-up Santé Cyber" rapide sur place :
+* **Audit Physique & Numérique :** Vérification concrète du réseau domestique et des appareils.
+* **Packs de Sécurisation :** Des services par niveaux comme "Spécial Enfants" ou "Confidentialité Totale".
+* **Google Antigravity :** Cet outil a été créé avec Google Antigravity pour rendre l'audit ultra rapide et générer un rapport visuel de qualité pour le client.
 
 ---
 
-### 🛠️ Technical Skills Demonstrated
-* **Security Automation:** Python scripting for system auditing.
-* **Network Defense:** Understanding of firewall, DNS, and system hardening.
-* **Reporting:** Translating technical data into clear, actionable executive summaries.
+## ✨ Points clés de l'audit
+* **Profilage Système :** Identification de l'OS, du matériel et du nom de la machine.
+* **Hardening Pare-feu :** Vérification des profils actifs du pare-feu Windows.
+* **Audit Antivirus :** Détection en temps réel des logiciels de sécurité actifs.
+* **Analyse des Comptes :** Identification des utilisateurs locaux activés ou désactivés.
+* **Gestion des MAJ :** Scan des dernières mises à jour de sécurité Windows.
+* **Intégrité Réseau :** Analyse des configurations IP et des paramètres DNS.
+
+## 📊 Rapport Automatisé
+L'outil génère un **Rapport HTML stylisé** en quelques secondes :
+* **Résumé Exécutif :** Statut Pass/Fail pour les couches de sécurité critiques.
+* **Conseils de Sécurisation :** Recommandations pratiques pour l'utilisateur final.
 
 ---
-*Developed by Reda | Junior Cybersecurity Analyst*
+
+### 📥 Télécharger l'outil
+Tu peux télécharger la version prête à l'emploi (exécutable) ici :  
+👉 [**CyberSentinel v1.0 - Portable Executable**](https://github.com/Reda-Be/CyberSentinel-Home-Security-Audit-Toolkit/releases/tag/v1.0)
+
+---
+
+### 🛠️ Compétences techniques démontrées
+* **Automatisation Sécurité :** Scripting Python pour l'audit système.
+* **Défense Réseau :** Compréhension des pare-feu, DNS et du durcissement système (hardening).
+* **Reporting :** Traduction de données techniques en résumés clairs et exploitables pour un client.
+
+---
+*Développé par Reda | Analyste Cybersécurité Junior*
