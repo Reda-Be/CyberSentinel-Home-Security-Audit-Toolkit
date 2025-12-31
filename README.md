@@ -1,40 +1,40 @@
 # 🛡️ Home Security Audit Toolkit
 
-> **💡 Juste un projet fun :** C'est mon tout premier outil ! Il vient d'une idée de startup qui m'est passée par la tête : imaginez une "Cyber Squad" qui se déplace physiquement chez les gens pour sécuriser leur Wi-Fi, vérifier leurs appareils et installer des packs "Sécurité Gold" ou du contrôle parental. La startup n'existe pas (encore !), c'est juste une idée comme ça, mais cet outil est la preuve technique que c'est possible.
+> **💡 Just a fun project:** This is my very first tool! It comes from a startup idea I had: imagine a "Cyber Squad" that physically visits people's homes to secure their Wi-Fi, check their devices, and install "Gold Security" packs or parental controls. The startup doesn't exist (yet!), it's just an idea, but this tool is the technical proof of concept.
 
 ## 📖 Vision & Concept
-L'idée était de combler le fossé entre la sécurité informatique complexe et la vie quotidienne à la maison. Cet outil est conçu pour montrer comment un analyste pourrait effectuer un "Check-up Santé Cyber" rapide sur place :
-* **Audit Physique & Numérique :** Vérification concrète du réseau domestique et des appareils.
-* **Packs de Sécurisation :** Des services par niveaux comme "Spécial Enfants" ou "Confidentialité Totale".
-* **Google Antigravity :** Cet outil a été créé avec Google Antigravity pour rendre l'audit ultra rapide et générer un rapport visuel de qualité pour le client.
+The idea was to bridge the gap between complex IT security and everyday home life. This tool is designed to show how an analyst could perform a quick on-site "Cyber Health Check-up":
+* **Physical & Digital Audit:** Concrete verification of the home network and devices.
+* **Security Packs:** Tiered services such as "Kids Special" or "Total Privacy."
+* **Google Antigravity:** This tool was created with Google Antigravity to make the audit ultra-fast and generate a high-quality visual report for the client.
 
 ---
 
-## ✨ Points clés de l'audit
-* **Profilage Système :** Identification de l'OS, du matériel et du nom de la machine.
-* **Hardening Pare-feu :** Vérification des profils actifs du pare-feu Windows.
-* **Audit Antivirus :** Détection en temps réel des logiciels de sécurité actifs.
-* **Analyse des Comptes :** Identification des utilisateurs locaux activés ou désactivés.
-* **Gestion des MAJ :** Scan des dernières mises à jour de sécurité Windows.
-* **Intégrité Réseau :** Analyse des configurations IP et des paramètres DNS.
+## ✨ Audit Key Features
+* **System Profiling:** Identification of the OS, hardware, and machine name.
+* **Firewall Hardening:** Verification of active Windows Firewall profiles.
+* **Antivirus Audit:** Real-time detection of active security software.
+* **Account Analysis:** Identification of enabled or disabled local users.
+* **Update Management:** Scan for the latest Windows security updates.
+* **Network Integrity:** Analysis of IP configurations and DNS settings.
 
-## 📊 Rapport Automatisé
-L'outil génère un **Rapport HTML stylisé** en quelques secondes :
-* **Résumé Exécutif :** Statut Pass/Fail pour les couches de sécurité critiques.
-* **Conseils de Sécurisation :** Recommandations pratiques pour l'utilisateur final.
+## 📊 Automated Reporting
+The tool generates a **Stylized HTML Report** in seconds:
+* **Executive Summary:** Pass/Fail status for critical security layers.
+* **Security Tips:** Practical recommendations for the end user.
 
 ---
 
-### 📥 Télécharger l'outil
-Tu peux télécharger la version prête à l'emploi (exécutable) ici :  
+### 📥 Download the Tool
+You can download the ready-to-use version (executable) here:  
 👉 [**CyberSentinel v1.0 - Portable Executable**](https://github.com/Reda-Be/CyberSentinel-Home-Security-Audit-Toolkit/releases/tag/v1.0)
 
 ---
 
-### 🛠️ Compétences techniques démontrées
-* **Automatisation Sécurité :** Scripting Python pour l'audit système.
-* **Défense Réseau :** Compréhension des pare-feu, DNS et du durcissement système (hardening).
-* **Reporting :** Traduction de données techniques en résumés clairs et exploitables pour un client.
+### 🛠️ Technical Skills Demonstrated
+* **Security Automation:** Python scripting for system auditing.
+* **Network Defense:** Understanding of firewalls, DNS, and system hardening.
+* **Reporting:** Translating technical data into clear, actionable summaries for a client.
 
 ---
-*Développé par Reda | Analyste Cybersécurité Junior* 
+*Developed by Reda | Junior Cybersecurity Analyst*
