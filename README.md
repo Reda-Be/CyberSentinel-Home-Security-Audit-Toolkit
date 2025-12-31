@@ -37,4 +37,4 @@ Tu peux télécharger la version prête à l'emploi (exécutable) ici :
 * **Reporting :** Traduction de données techniques en résumés clairs et exploitables pour un client.
 
 ---
-*Développé par Reda | Analyste Cybersécurité Junior*
+*Développé par Reda | Analyste Cybersécurité Junior* 
