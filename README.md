@@ -37,4 +37,4 @@ You can download the ready-to-use version (executable) here:
 * **Reporting:** Translating technical data into clear, actionable summaries for a client.
 
 ---
-*Developed by Reda | Junior Cybersecurity Analyst*
+*Developed by Reda.B
